@@ -1,7 +1,8 @@
-GitHub Services
+Causes Services
 ===============
 
-This repository contains code to integrate GitHub.com with third party services.
+This repository contains code to integrate Causes.com with third party services.
 
-See the [Contributing Guidelines](https://github.com/github/github-services/blob/master/CONTRIBUTING.md)
-for instructions on contributing a service.
+(This started as a fork of Github Services.  It's liberally licensed and does a thing similar to the goal of Causes Services, so we start here.)
+See the [Github Contributing Guidelines](https://github.com/github/github-services/blob/master/CONTRIBUTING.md)
+for instructions on contributing a service. -- we'll adapt this to Causes.com as time allows.
